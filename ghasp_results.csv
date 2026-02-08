@@ -1,0 +1,4 @@
+Galaxy,Type,M_bar,R_max_kpc,Sigma,alpha_predicted,Predicted_RC,Observed_RC,Match
+UGC 10143,Spiral,102000000000.0,11.8,233.17730817830113,0.8189367794701554,Flat/Falling,Falling/Flat,True
+UGC 3382,Spiral,24500000000.0,14.2,38.675819338935085,1.198916952345613,Flat/Rising,Flat,True
+UGC 11300,Dwarf,410000000.0,2.4,22.657474537387877,1.3120119992066364,Flat/Rising,Rising/Flat,True
