@@ -1,0 +1,29 @@
+SURFACE DENSITY CORRELATION - SUMMARY STATISTICS
+======================================================================
+
+Sample size: N = 30
+Date: February 2026
+
+SURFACE DENSITY RANGE:
+  Min: 3.6 M☉/pc²
+  Max: 218.7 M☉/pc²
+  Mean: 40.0 M☉/pc²
+
+CORRELATION:
+  Pearson r = -0.9702
+  p-value < 8.69e-19
+  R² = 0.9414
+
+EMPIRICAL FORMULA:
+  α = 1.897 ± 0.019
+      + (-0.410 ± 0.019) × log₁₀(Σ)
+
+ERROR STATISTICS:
+  RMSE: 0.0440
+  MAE: 0.0327
+  Mean % error: 2.59%
+
+REGIME DISTRIBUTION:
+  Enhanced: 8 galaxies
+  Active: 19 galaxies
+  Transitional: 3 galaxies
